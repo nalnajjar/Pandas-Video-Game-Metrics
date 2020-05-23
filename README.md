@@ -6,7 +6,7 @@ Congratulations! After a lot of hard work in the data munging mines, you've land
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-# OBSERVABLE TRENDS IN HEROES OF PYMOLI
+# Observations from Pandas Analysis (notebook above)
 
 1. Players under 10 have the second-highest average purchase price ($4.54). It is unlikely that these players have any income stream, and if they do, it certainly is not connected to a credit card for in-game purchases for our app. We should review our paywall to make sure that our youngest players are not racking up bills on their unsuspecting parents. A small, short-term revenue dip is worth their extended relationship with our game -- parents may delete the app in frustration if they are receiving unexpected charges.
 
